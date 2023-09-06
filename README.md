@@ -13,3 +13,8 @@ Born2beroot is an individual project at [42](https://www.42sp.org.br/) that requ
 
 #### My grade
 <img src="./img/score.png" width="150" height="150"/>
+
+---
+
+Made by:<br />
+Gilmar Alexandro Romani 👋 [See my linkedin](https://www.linkedin.com/in/gilmar-romani/)
